@@ -5,8 +5,10 @@ This project was built on Pytorch framework.
 **Example:**
 
 Input: 'abc'
+
 Output; 'cba'
 
 Input: 'helloworld'
+
 Output: 'dlrowolleh'
 
