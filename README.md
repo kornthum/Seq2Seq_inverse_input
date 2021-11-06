@@ -6,7 +6,7 @@ This project was built on Pytorch framework.
 
 Input: 'abc'
 
-Output; 'cba'
+Output: 'cba'
 
 ----------------------------------
 
